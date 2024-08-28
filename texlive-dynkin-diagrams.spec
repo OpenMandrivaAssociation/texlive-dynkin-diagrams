@@ -1,5 +1,5 @@
 Name:		texlive-dynkin-diagrams
-Version:	67267
+Version:	71883
 Release:	1
 Summary:	Draw Dynkin, Coxeter, and Satake diagrams using TikZ
 Group:		Publishing
