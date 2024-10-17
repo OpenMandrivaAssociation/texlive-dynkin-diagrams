@@ -3,7 +3,7 @@ Version:	71883
 Release:	1
 Summary:	Draw Dynkin, Coxeter, and Satake diagrams using TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dynkin-diagrams
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dynkin-diagrams
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dynkin-diagrams.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dynkin-diagrams.doc.r%{version}.tar.xz
